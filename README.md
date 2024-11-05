@@ -25,7 +25,8 @@ x=[1,2,3,4,5]
 y=[3,6,2,7,1]
 sns.lineplot(x=x,y=y)
 ```
-![image](https://github.com/Kalpanareshma/EXNO-6-DS/assets/122040453/5ebc90bd-e2c7-44f7-bea0-aaa3a79e73fe)
+![image](https://github.com/user-attachments/assets/1c3001e4-1e27-4b75-ab05-bdb4ba24d209)
+
 ```
 df=sns.load_dataset('tips')
 df
